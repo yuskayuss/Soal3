@@ -54,3 +54,7 @@ func main() {
 
 	fmt.Println("Max score:", getMaxScore(arr, k)) 
 }
+
+
+
+
